@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning to learn"
-date: 2024-11-01 10:48:48
+title:  "Learning to learn"
+date:   2024-11-01 10:48:48 +0100
 categories: deep-learning
 ---
 While doing some research on Meta Learning, I came across the book of <a href="{https://radekosmulski.com/}}"> Radek Osmulski </a>.
