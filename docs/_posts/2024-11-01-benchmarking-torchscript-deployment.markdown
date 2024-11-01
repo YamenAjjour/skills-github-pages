@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Learning to learn"
-date : 2024-11-01 10:48:48 
-catgories: deep-learning
+date: 2024-11-01 10:48:48
+categories: deep-learning
 ---
 While doing some research on Meta Learning, I came across the book of <a href="{https://radekosmulski.com/}}"> Radek Osmulski </a>.
 The book is titled META LEARNING and basically reprots valuable information on how to become a deep learning scientist. 
